@@ -2,7 +2,9 @@ IntervuDesk
 Technical Interview Platform
 IntervuDesk is a comprehensive platform designed to streamline technical interviews with real-time coding, video meetings, and automated assessment tools.
 
-IntervuDesk Logo
+## Live Demo
+[Click here to view the live application](https://intervu-desk.vercel.app/)
+
 
 Features
 For Interviewers
